@@ -57,7 +57,7 @@ while True:
     Language:{cv1["Languages"]}
     Telephone:{cv1["Telephone"]}""")
     elif ch==2:
-        print(f"""****CV1****
+        print(f"""****CV2****
     Name:{cv2["Name"]}
     Surname:{cv2["Surname"]}
     Gender:{cv2["Gender"]}
@@ -66,7 +66,7 @@ while True:
     Language:{cv2["Languages"]}
     Telephone:{cv2["Telephone"]}""")
     elif ch==3:
-        print(f"""****CV1****
+        print(f"""****CV3****
     Name:{cv3["Name"]}
     Surname:{cv3["Surname"]}
     Gender:{cv3["Gender"]}
@@ -75,7 +75,7 @@ while True:
     Language:{cv3["Languages"]}
     Telephone:{cv3["Telephone"]}""")
     elif ch==4:
-        print(f"""****CV1****
+        print(f"""****CV4****
     Name:{cv4["Name"]}
     Surname:{cv4["Surname"]}
     Gender:{cv4["Gender"]}
@@ -84,7 +84,7 @@ while True:
     Language:{cv4["Languages"]}
     Telephone:{cv4["Telephone"]}""")
     elif ch==5:
-        print(f"""****CV1****
+        print(f"""****CV5****
     Name:{cv5["Name"]}
     Surname:{cv5["Surname"]}
     Gender:{cv5["Gender"]}
