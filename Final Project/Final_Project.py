@@ -1,4 +1,5 @@
 #finalproject
+print("****Welcome Knowledge Competition****")
 questıons=["1-Which is the first animal to be domesticated?",
            "2-Which one is used for direction function?",
            "3-Which of the fish species is the mammal?",
