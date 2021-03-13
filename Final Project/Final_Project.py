@@ -41,4 +41,8 @@ def start():
         s+=1
         a+=1
     print(f"Your Score: {score}")
+    if score>=50:
+        print("Successful")
+    else:
+        print("Unsuccessful")
 start()
