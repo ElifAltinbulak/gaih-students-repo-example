@@ -19,7 +19,7 @@ answers=["A)Dog B)Fish C)Elephant D)Horse E)Empty",
          "A)Lamp B)Oil Lamp C)Firefly D)Moon E)Empty ",
          "A)Turtle B)Mole C)Hedgehog D)Squirrel E)Empty",
          "A)DNA B)RNA C)MRNA D)Lisosome E)Empty ",
-         "A)2 B)-1 C)0 D)1"]
+         "A)2 B)-1 C)0 D)1 E)Empty "]
 correct=["A","C","B","D","C","A","C","A","D","C"]
 s,a=0,0
 def start():
